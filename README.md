@@ -30,8 +30,8 @@ Siga os passos abaixo!
 > pkg install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/Guilhermeozz/ZeroTwo8.git
-> cd ZeroTwo8
+> git clone https://github.com/Guilhermeozz/zerodois.git
+> cd zerodois
 > bash install.sh
 ```
 
